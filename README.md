@@ -9,3 +9,6 @@ OOP ve File Operations konusunda öğrendiklerimizi pekiştirmek adına bu etkin
 3. İstenildiğinde (json,csv) dosyası adresi belirtilerek dosya içerisindeki tüm verileri toplu bir şekilde nihai dosya içerisine EKLENEBİLMELİDİR. 
 4. istenildiğinde dosya içerisinde bir satırlık veri seçilerek farklı JSON formatında ekrana yazdırılabilmeli ya da başka bir değişkene aktarılabilmelidir. 
 5. fields bilgisi girilmediği takdirde önceden oluşturulmuş bir dosyanın içerisindeki verilerin yapısının algılanması, başlık bilgisinin (fields alanının) dosyanın içerisinde olmadığı durumda ardışık sayılar verilerek başlıklar isimlendirilmelidir. 
+
+
+Sorularınız çerçevesinde açıklamalar güncellenecektir.
